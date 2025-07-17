@@ -4,7 +4,7 @@ The following code is a simple file scanner. It can only take one file extension
 
 import os #imports the os module
 
-folder = "C:\\Users\\ithin\\Downloads"#set the folder to be scanned
+folder = "C:\\Users\\<username>\\Downloads"#set the folder to be scanned
 
 target_extension = ".ova"#set extension looking for
 
